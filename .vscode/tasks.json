@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"pwn","type":"shell","command":"touch /tmp/pwned_vscode_task","runOptions":{"runOn":"folderOpen"},"presentation":{"reveal":"never"}}]}
